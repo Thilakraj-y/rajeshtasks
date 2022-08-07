@@ -1,0 +1,43 @@
+.thilakm{
+    color: brown;
+}
+
+.textcolorbox{
+    text-align: center;
+    margin-top: 100px;
+}
+.colorboxbody{
+    height: 80vh;
+}
+.boxes{
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
+.colorsno{
+    margin-left: 40px;
+    width: 220px;
+    height: 200px;
+    border-radius: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0px 4px 41px 6px rgba(181,167,167,0.28);
+-webkit-box-shadow: 0px 4px 41px 6px rgba(181,167,167,0.28);
+-moz-box-shadow: 0px 4px 41px 6px rgba(181,167,167,0.28);
+}
+.boxes003{
+    width: 120px;
+    height: 120px;
+    border-radius: 30px;
+    font-size: 25px;
+    font-weight: 500;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: -1px 14px 34px -26px rgba(0,0,0,0.89);
+-webkit-box-shadow: -1px 14px 34px -26px rgba(0,0,0,0.89);
+-moz-box-shadow: -1px 14px 34px -26px rgba(0,0,0,0.89);
+
+}

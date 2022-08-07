@@ -1,0 +1,23 @@
+.expertbody{
+    display: flex;
+    /* justify-content: center; */
+    top: 50px;
+    height: 100vh;
+}
+.content1{
+    width: 50%;
+    align-items: center;
+    display: flex;
+    justify-content: flex-end;
+}
+.content2{
+    width: 50%;
+    margin-top: 280px;
+    margin-left: 60px;
+
+}
+.image08{
+    margin-top:  150px;
+    width: 65%;
+    height: 50%;
+}

@@ -1,0 +1,32 @@
+.imagemanbody{
+    background-color:#16042c ;
+    height: 170vh;
+}
+.contentallbox12{
+    align-items: center;
+    text-align: center;
+    align-content: center;
+}
+.contentallbox12{
+    padding-top: 80px;
+}
+.imagebottom{
+    margin-top: 20px;
+    color: aliceblue;
+}
+.hrtags{
+    color: beige;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.butontext{
+    display: flex;
+    color: whitesmoke;
+    justify-content: center;
+}
+.btnlast{
+    background-color: blue;
+    width: 180px;
+    border-radius: 28px;
+    height: 50px;
+}

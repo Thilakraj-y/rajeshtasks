@@ -1,0 +1,81 @@
+.beforecontent{
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+}
+
+.beforecontent001{
+        width: 40%;
+        display: flex;
+        justify-content: flex-end;
+        align-items: center;
+        align-content: center;
+
+}
+.h4textno1{
+    font-size: 15px;
+}
+.h4textno22{
+    font-size: 12px;
+}
+.beforecontent002{
+    width: 40%;
+  
+
+}
+.image25{
+    width: 450px;
+    height: 350px;
+
+}
+.newsm{
+    width: 200px;
+    height: 80px;
+    display: flex;
+}
+.newcolumn{
+    margin-top: 150px;
+}
+.img0111{
+    padding-right: 30px;
+    margin-top: 60px;
+}
+.yuyu{
+    text-align: start;
+}
+.displayimages{
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+}
+.no1flexbox{
+    display: flex;
+    justify-content: center;
+    height: 30vh;
+}
+.icoon{
+    font-size: 30px;
+    border-radius: 10px;
+}
+
+.iconlists{
+    display: flex;
+
+}
+li{
+    padding-right: 40px;
+    padding-top: 20px;
+    list-style: none;
+}
+.bnm{
+    padding-top: 30px;
+}
+
+.allboxcss{
+    width: 30%;
+}
+.divflexbox{
+    width: 50%;
+    display: flex;
+    justify-content: flex-start;
+}
